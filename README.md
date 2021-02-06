@@ -1,3 +1,3 @@
 # Python Packet Sniffer
 
-## Note: The documentation will be updated soon.
+The script is created in Python 3 and allows you to monitor traffic running through local network. It also can help you to view source of the packets, target host and the type of protocol used TCP and UDP.
